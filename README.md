@@ -4,12 +4,12 @@
 Junior Flutter developer based in Egypt. I also work in web development and machine learning.
 
 ### Skills
-| | |
-|---|---|
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-1e3a5f?style=flat-square&logo=flutter&logoColor=white) |
-| **Web development** | ![HTML](https://img.shields.io/badge/HTML-1e3a5f?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1e3a5f?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-1e3a5f?style=flat-square&logo=javascript&logoColor=white) ![Django](https://img.shields.io/badge/Django-1e3a5f?style=flat-square&logo=django&logoColor=white) |
-| **Programming languages** | ![Python](https://img.shields.io/badge/Python-1e3a5f?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-1e3a5f?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-1e3a5f?style=flat-square&logo=openjdk&logoColor=white) |
-| **Machine learning and deep learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-1e3a5f?style=flat-square&logo=tensorflow&logoColor=white) |
+<table>
+<tr><td><b>Mobile</b></td><td><img src="https://img.shields.io/badge/Flutter-1e3a5f?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"></td></tr>
+<tr><td><b>Web development</b></td><td><img src="https://img.shields.io/badge/HTML-1e3a5f?style=flat-square&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-1e3a5f?style=flat-square&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-1e3a5f?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/Django-1e3a5f?style=flat-square&logo=django&logoColor=white" alt="Django"></td></tr>
+<tr><td><b>Programming languages</b></td><td><img src="https://img.shields.io/badge/Python-1e3a5f?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C++-1e3a5f?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Java-1e3a5f?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></td></tr>
+<tr><td><b>Machine learning and deep learning</b></td><td><img src="https://img.shields.io/badge/TensorFlow-1e3a5f?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"></td></tr>
+</table>
 
 ### Spoken languages
 Arabic · English
